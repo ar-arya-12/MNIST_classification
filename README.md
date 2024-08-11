@@ -34,6 +34,9 @@ The MNIST dataset consists of 60,000 training images and 10,000 testing images o
 ## Results
 
 The model achieves an accuracy of approximately **98%** on the MNIST test set after 10 epochs of training. 
+Final training loss: 0.0809
+Final validation loss: 0.0685
+The model's loss decreased steadily during training, with the validation loss closely tracking the training loss, indicating that the model did not overfit the data.
 
 
 ## Acknowledgements
