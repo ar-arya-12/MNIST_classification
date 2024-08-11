@@ -1,4 +1,4 @@
-# MNIST_classification
+
 
 # MNIST Digit Classification with TensorFlow
 
